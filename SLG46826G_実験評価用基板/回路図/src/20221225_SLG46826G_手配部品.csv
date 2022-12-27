@@ -1,0 +1,18 @@
+Ref,Value,Cmp name,Vendor,型式,価格,,Footprint,Description
+"C1, C2, C3, C4, ",0.1u,C,盛,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,Unpolarized capacitor
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, ",LED,LED,秋月,I-11881,￥150,10個入,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Light emitting diode
+"H1, H2, H3, H4, ",MountingHole_Pad,MountingHole_Pad,,,,,MountingHole:MountingHole_2.5mm_Pad_TopOnly,Mounting Hole with connection
+"IC1, ",SLG46826G,SLG46826G,オレンジピコショップ,SLG46826G,￥150,1個入,SLG46826G:SOP65P640X120-20N,SPLD - Simple Programmable Logic Devices GPAK Mixed Signal Matrix
+"J1, ",GROVE-CONNECTOR-DIP_4P-2.0_,GROVE-CONNECTOR-DIP_4P-2.0_,秋月,C-15514,￥370,20個入,OPL_Connector:HW4-2.0,
+"J2, J3, ",Conn_01x20_Male,Conn_01x20_Male,盛,,,,Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical,"Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"J4, J5, J6, ",Conn_01x15_Male,Conn_01x15_Male,盛,,,,Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical,"Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"JP1, ",Jumper_2_Open,Jumper_2_Open,盛,,,,Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,"Jumper, 2-pole, open"
+"JP2, ",Jumper_3_Bridged12,Jumper_3_Bridged12,盛,,,,Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels,"Jumper, 3-pole, pins 1+2 closed/bridged"
+"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, ",2k,R,秋月,R-11790,﻿￥100,5個入,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor
+"U1, ",MCP1703A-3302_SOT23,MCP1703A-3302_SOT23,秋月,I-13612,￥70,1個入,Package_TO_SOT_SMD:SOT-23,"Low Quiescent Current LDO Regulator, 3.3V, 250mA, Vin<=16V, SOT-23"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,1,,

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/a8838/Kicad/20221225_SLG46826G/20221225_SLG46826G.kicad_sch</source>
-    <date>2022年12月25日 12時32分27秒</date>
+    <date>2022年12月25日 23時32分09秒</date>
     <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -213,6 +213,42 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b2a5c5c6-0cc1-496a-9574-302ec6217685</tstamps>
     </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_TopOnly</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae236655-aaf0-4ad1-9ce8-361c4377ceda</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_TopOnly</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3af6bf3-d0bb-48f5-a134-a190fb46ab19</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_TopOnly</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5223537d-cb2f-4870-90fa-f83ae9385aca</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_TopOnly</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>549c7fd4-534f-45f9-9a29-c495098953fe</tstamps>
+    </comp>
     <comp ref="IC1">
       <value>SLG46826G</value>
       <footprint>SLG46826G:SOP65P640X120-20N</footprint>
@@ -306,15 +342,6 @@
       <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1328c68e-a372-47ec-b152-db7a3fe53540</tstamps>
-    </comp>
-    <comp ref="J7">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0e1467ec-e0f9-4a62-abf9-c42d7b264704</tstamps>
     </comp>
     <comp ref="JP1">
       <value>Jumper_2_Open</value>
@@ -497,43 +524,16 @@
     </comp>
     <comp ref="U1">
       <value>MCP1703A-3302_SOT23</value>
-      <footprint>MCP1703A-3302E_DB:SOT230P700X180-4N</footprint>
-      <fields>
-        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf</field>
-        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
-        <field name="Reference">U1</field>
-        <field name="Value">MCP1703A-3302_SOT23</field>
-      </fields>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf</datasheet>
       <libsource lib="Regulator_Linear" part="MCP1703A-3302_SOT23" description="Low Quiescent Current LDO Regulator, 3.3V, 250mA, Vin&lt;=16V, SOT-23"/>
-      <property name="Datasheet" value="http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf"/>
-      <property name="Footprint" value="Package_TO_SOT_SMD:SOT-23"/>
-      <property name="Reference" value="U1"/>
-      <property name="Value" value="MCP1703A-3302_SOT23"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="20221225_SLG46826G.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d6b70b12-da46-4791-9a22-93b7edb301b6</tstamps>
+      <tstamps>9960d1c6-dee8-4a4e-bdc8-9dec248ffd20</tstamps>
     </comp>
   </components>
   <libparts>
-    <libpart lib="Connector" part="Conn_01x04_Male">
-      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Connector*:*_1x??_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Conn_01x04_Male</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-        <pin num="2" name="Pin_2" type="passive"/>
-        <pin num="3" name="Pin_3" type="passive"/>
-        <pin num="4" name="Pin_4" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Connector" part="Conn_01x15_Male">
       <description>Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <docs>~</docs>
@@ -684,6 +684,21 @@
         <pin num="3" name="B" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="OPL_Connector" part="GROVE-CONNECTOR-DIP_4P-2.0_">
       <footprints>
         <fp>*HW4-2.0*</fp>
@@ -765,6 +780,9 @@
     <library logical="Jumper">
       <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
     </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
     <library logical="OPL_Connector">
       <uri>/home/a8838/Kicad/zLib/OPL_Kicad_Library-master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.kicad_sym</uri>
     </library>
@@ -786,6 +804,10 @@
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
       <node ref="IC1" pin="10" pinfunction="GND" pintype="passive"/>
       <node ref="J1" pin="1" pinfunction="1" pintype="bidirectional"/>
       <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
@@ -805,7 +827,6 @@
       <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="J6" pin="9" pinfunction="Pin_9" pintype="passive"/>
-      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
@@ -1007,14 +1028,12 @@
       <node ref="J1" pin="4" pinfunction="4" pintype="bidirectional"/>
       <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
     <net code="37" name="SDA">
       <node ref="IC1" pin="12" pinfunction="SDA" pintype="passive"/>
       <node ref="J1" pin="3" pinfunction="3" pintype="bidirectional"/>
       <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
     <net code="38" name="VCC">
       <node ref="C2" pin="1" pintype="passive"/>
@@ -1031,7 +1050,6 @@
       <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>

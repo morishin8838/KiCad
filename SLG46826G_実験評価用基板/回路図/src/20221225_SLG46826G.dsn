@@ -34,58 +34,58 @@
   )
   (placement
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-      (place R12 108098.328000 -71120.000000 front 0.000000 (PN 2k))
+      (place R12 108098.300000 -71120.000000 front 0.000000 (PN 1k))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-      (place D15 114288.328000 -78740.000000 front 0.000000 (PN LED))
+      (place D15 114288.300000 -78740.000000 front 0.000000 (PN LED))
     )
     (component Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical
       (place J3 58420.000000 -36830.000000 front 0.000000 (PN Conn_01x20_Male))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::1
-      (place R9 108098.328000 -63500.000000 front 0.000000 (PN 2k))
+      (place R9 108098.300000 -63500.000000 front 0.000000 (PN 1k))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::2
-      (place R4 108098.328000 -50800.000000 front 0.000000 (PN 2k))
+      (place R4 108098.300000 -50800.000000 front 0.000000 (PN 1k))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::1
-      (place D17 114288.328000 -83820.000000 front 0.000000 (PN LED))
+      (place D17 114288.300000 -83820.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::2
-      (place D10 114288.328000 -66040.000000 front 0.000000 (PN LED))
+      (place D10 114288.300000 -66040.000000 front 0.000000 (PN LED))
     )
     (component "Package_TO_SOT_SMD:SOT-23"
       (place U1 88492.500000 -35020.000000 front 0.000000 (PN "MCP1703A-3302_SOT23"))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::3
-      (place D3 114288.328000 -48260.000000 front 0.000000 (PN LED))
+      (place D3 114288.300000 -48260.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::4
-      (place D6 114288.328000 -55880.000000 front 0.000000 (PN LED))
+      (place D6 114288.300000 -55880.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::5
       (place D2 114497.500000 -38920.000000 front 0.000000 (PN LED))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::3
-      (place R15 108098.328000 -78740.000000 front 0.000000 (PN 2k))
+      (place R15 108098.300000 -78740.000000 front 0.000000 (PN 1k))
     )
     (component "OPL_Connector:HW4-2.0"
       (place J1 73660.000000 -31750.000000 front 0.000000 (PN "GROVE-CONNECTOR-DIP_4P-2.0_"))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::4
-      (place R3 108098.328000 -48260.000000 front 0.000000 (PN 2k))
+      (place R3 108098.300000 -48260.000000 front 0.000000 (PN 1k))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::6
-      (place D9 114288.328000 -63500.000000 front 0.000000 (PN LED))
+      (place D9 114288.300000 -63500.000000 front 0.000000 (PN LED))
     )
     (component "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
       (place JP1 104140.000000 -88900.000000 front 0.000000 (PN Jumper_2_Open))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::7
-      (place D5 114288.328000 -53340.000000 front 0.000000 (PN LED))
+      (place D5 114288.300000 -53340.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::8
-      (place D4 114288.328000 -50800.000000 front 0.000000 (PN LED))
+      (place D4 114288.300000 -50800.000000 front 0.000000 (PN LED))
     )
     (component MountingHole:MountingHole_2.5mm_Pad_TopOnly
       (place H4 118110.000000 -27940.000000 front 0.000000 (PN MountingHole_Pad))
@@ -99,40 +99,40 @@
       (place H1 54610.000000 -27940.000000 front 0.000000 (PN MountingHole_Pad))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::5
-      (place R7 108098.328000 -58420.000000 front 0.000000 (PN 2k))
+      (place R7 108098.300000 -58420.000000 front 0.000000 (PN 1k))
     )
     (component "SLG46826G:SOP65P640X120-20N"
       (place IC1 73660.000000 -49530.000000 front 0.000000 (PN SLG46826G))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::9
-      (place D13 114288.328000 -73660.000000 front 0.000000 (PN LED))
+      (place D13 114288.300000 -73660.000000 front 0.000000 (PN LED))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::6
-      (place R5 108098.328000 -53340.000000 front 0.000000 (PN 2k))
+      (place R5 108098.300000 -53340.000000 front 0.000000 (PN 1k))
     )
     (component Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
       (place C4 88492.500000 -40100.000000 front 0.000000 (PN 0.1u))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::7
-      (place R8 108098.328000 -60960.000000 front 0.000000 (PN 2k))
+      (place R8 108098.300000 -60960.000000 front 0.000000 (PN 1k))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::10
-      (place D16 114288.328000 -81280.000000 front 0.000000 (PN LED))
+      (place D16 114288.300000 -81280.000000 front 0.000000 (PN LED))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::8
-      (place R6 108098.328000 -55880.000000 front 0.000000 (PN 2k))
+      (place R6 108098.300000 -55880.000000 front 0.000000 (PN 1k))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::9
-      (place R11 108098.328000 -68580.000000 front 0.000000 (PN 2k))
+      (place R11 108098.300000 -68580.000000 front 0.000000 (PN 1k))
     )
     (component Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical
       (place J5 99060.000000 -48260.000000 front 0.000000 (PN Conn_01x15_Male))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::11
-      (place D14 114288.328000 -76200.000000 front 0.000000 (PN LED))
+      (place D14 114288.300000 -76200.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::12
-      (place D8 114288.328000 -60960.000000 front 0.000000 (PN LED))
+      (place D8 114288.300000 -60960.000000 front 0.000000 (PN LED))
     )
     (component Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder::1
       (place C3 88492.500000 -29940.000000 front 0.000000 (PN 0.1u))
@@ -141,40 +141,40 @@
       (place J4 95250.000000 -48260.000000 front 0.000000 (PN Conn_01x15_Male))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::10
-      (place R1 108307.500000 -35110.000000 front 0.000000 (PN 2k))
+      (place R1 108307.500000 -35110.000000 front 0.000000 (PN 1k))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::13
-      (place D11 114288.328000 -68580.000000 front 0.000000 (PN LED))
+      (place D11 114288.300000 -68580.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::14
       (place D1 114497.500000 -35110.000000 front 0.000000 (PN LED))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::11
-      (place R16 108098.328000 -81280.000000 front 0.000000 (PN 2k))
+      (place R16 108098.300000 -81280.000000 front 0.000000 (PN 1k))
     )
     (component Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical::2
       (place J6 91440.000000 -48260.000000 front 0.000000 (PN Conn_01x15_Male))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::12
-      (place R2 108307.500000 -38920.000000 front 0.000000 (PN 2k))
+      (place R2 108307.500000 -38920.000000 front 0.000000 (PN 1k))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::13
-      (place R14 108098.328000 -76200.000000 front 0.000000 (PN 2k))
+      (place R14 108098.300000 -76200.000000 front 0.000000 (PN 1k))
     )
     (component Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder::2
       (place C2 73660.000000 -41910.000000 front 180.000000 (PN 0.1u))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::15
-      (place D12 114288.328000 -71120.000000 front 0.000000 (PN LED))
+      (place D12 114288.300000 -71120.000000 front 0.000000 (PN LED))
     )
     (component LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder::16
-      (place D7 114288.328000 -58420.000000 front 0.000000 (PN LED))
+      (place D7 114288.300000 -58420.000000 front 0.000000 (PN LED))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::14
-      (place R17 108098.328000 -83820.000000 front 0.000000 (PN 2k))
+      (place R17 108098.300000 -83820.000000 front 0.000000 (PN 1k))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::15
-      (place R10 108098.328000 -66040.000000 front 0.000000 (PN 2k))
+      (place R10 108098.300000 -66040.000000 front 0.000000 (PN 1k))
     )
     (component Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder::3
       (place C1 73660.000000 -57150.000000 front 180.000000 (PN 0.1u))
@@ -183,7 +183,7 @@
       (place JP2 99060.000000 -29940.000000 front 0.000000 (PN Jumper_3_Bridged12))
     )
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder::16
-      (place R13 108098.328000 -73660.000000 front 0.000000 (PN 2k))
+      (place R13 108098.300000 -73660.000000 front 0.000000 (PN 1k))
     )
   )
   (library
@@ -1184,12 +1184,12 @@
         JP2-2)
     )
     (net GND
-      (pins J3-2 U1-1 J1-1 JP1-2 H4-1 H4-1@1 J2-2 H2-1 H2-1@1 IC1-10 C4-2 C3-2 R1-2
+      (pins J3-2 U1-1 J1-4 JP1-2 H4-1 H4-1@1 J2-2 H2-1 H2-1@1 IC1-10 C4-2 C3-2 R1-2
         H3-1 H3-1@1 J6-1 J6-2 J6-3 J6-4 J6-5 J6-6 J6-7 J6-8 J6-9 J6-10 J6-11 J6-12
         J6-13 J6-14 J6-15 R2-2 C2-2 H1-1 H1-1@1 C1-2)
     )
     (net VCC
-      (pins J3-1 U1-3 J1-2 J2-1 IC1-20 C3-1 J4-1 J4-2 J4-3 J4-4 J4-5 J4-6 J4-7 D1-2
+      (pins J3-1 U1-3 J1-3 J2-1 IC1-20 C3-1 J4-1 J4-2 J4-3 J4-4 J4-5 J4-6 J4-7 D1-2
         C2-1 JP2-1)
     )
     (net 3V3
@@ -1292,10 +1292,10 @@
       (pins J3-20 D17-2 J2-20 IC1-1 J5-15)
     )
     (net SCL
-      (pins J3-4 J1-4 J2-4 IC1-13)
+      (pins J3-4 J1-1 J2-4 IC1-13)
     )
     (net SDA
-      (pins J3-5 J1-3 J2-5 IC1-12)
+      (pins J3-5 J1-2 J2-5 IC1-12)
     )
     (net "Net-(JP1-Pad1)"
       (pins R12-2 R9-2 R4-2 R15-2 R3-2 JP1-1 R7-2 R5-2 R8-2 R6-2 R11-2 R16-2 R14-2

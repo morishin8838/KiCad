@@ -1,6 +1,6 @@
 
-(session 20221225_SLG46826G.ses
-  (base_design 20221225_SLG46826G.dsn)
+(session 20221225_SLG46826G.bin
+  (base_design 20221225_SLG46826G.bin)
   (placement
     (resolution um 10)
     (component Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
